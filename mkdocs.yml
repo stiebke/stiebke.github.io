@@ -130,6 +130,9 @@ extra:
       link: https://bsky.app/profile/stiebke.bsky.social
     - icon: fontawesome/brands/mastodon
       link: https://freiburg.social/@stiebke 
+    - icon: fontawesome/brands/rss
+      link: https://stephan.hadan.de/feed_rss_created.xml
+      name: Neueste Blogbeiträge
 
 # Extensions    
 markdown_extensions:
