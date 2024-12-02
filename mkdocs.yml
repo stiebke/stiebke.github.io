@@ -1,0 +1,86 @@
+site_name: Stephan Hadan
+site_url: http://localhost:8000/
+theme:
+  name: material
+  palette: 
+    primary: black
+    accent: indigo
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  language: de
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - toc.follow
+#    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+copyright: Copyright &copy; 2024 Stephan Hadan
+
+plugins:
+  - search
+  - blog: 
+      archive: false
+#  - social
+  - exporter:
+      formats:
+        pdf:
+          enabled: !ENV [MKDOCS_EXPORTER_PDF_ENABLED, true]
+          stylesheets:
+            - resources/stylesheets/pdf.scss
+          covers:
+            front: resources/templates/covers/front.html.j2
+            back: resources/templates/covers/back.html.j2
+#          browser:
+#            debug: false
+          aggregator:
+            enabled: !ENV [MKDOCS_EXPORTER_PDF_AGGREGATOR, true]
+            output: documentation.pdf
+            covers: front
+      buttons:
+        - title: Download as PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/stiebke
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/stiebke.bsky.social
+    - icon: fontawesome/brands/mastodon
+      link: https://freiburg.social/@stiebke 
+    
+markdown_extensions:
+  - abbr
+  - pymdownx.betterem
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde  
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+
+# Page tree
+nav:
+  - Über mich: index.md
+  - Lebenslauf: cv/index.md
+  - Projekte: projects/index.md
+
+  - Blog:
+    - blog/index.md  
+        
