@@ -1,5 +1,8 @@
 site_name: Stephan Hadan
 site_url: https://stephan.hadan.de/
+repo_url: https://github.com/stiebke/stiebke.github.io
+repo_name: stiebke/stiebke.github.io
+
 theme:
   name: material
   palette: 
@@ -7,6 +10,8 @@ theme:
     accent: indigo
   logo: assets/logo.png
   favicon: images/favicon.png
+  icon:
+    repo: fontawesome/brands/git-alt
   language: de
   features:
     - navigation.instant
@@ -29,6 +34,8 @@ plugins:
   - blog: 
       archive: false
 #  - social
+  - git-revision-date-localized:
+      enable_creation_date: true  
   - exporter:
       formats:
         pdf:
@@ -54,7 +61,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/stiebke
-    - icon: fontawesome/brands/bluesky
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/in/stiebke
       link: https://bsky.app/profile/stiebke.bsky.social
     - icon: fontawesome/brands/mastodon
       link: https://freiburg.social/@stiebke 
