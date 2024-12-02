@@ -85,6 +85,8 @@ plugins:
   - search
   - privacy:
       enabled: !ENV [CI, false]
+  - optimize:
+      enabled: !ENV [CI, false]
   - blog: 
       archive: false
   - git-revision-date-localized:
