@@ -1,5 +1,5 @@
 site_name: Stephan Hadan
-site_url: http://localhost:8000/
+site_url: https://stephan.hadan.de/
 theme:
   name: material
   palette: 
@@ -80,7 +80,9 @@ nav:
   - Über mich: index.md
   - Lebenslauf: cv/index.md
   - Projekte: projects/index.md
-
+  - Tech Stack: techstack/index.md
+  - Kontakt: contact/index.md
+  - Impressum: imprint/index.md
   - Blog:
     - blog/index.md  
         
