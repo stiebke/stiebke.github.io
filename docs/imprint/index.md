@@ -1,3 +1,6 @@
+---
+pdf: false
+---
 # Impressum
 
 Stephan Hadan<br />
