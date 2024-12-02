@@ -1,3 +1,6 @@
+---
+page.title: Lebenslauf
+---
 # Lebenslauf
 
 ## Persönliche Daten
