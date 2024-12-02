@@ -83,6 +83,8 @@ theme:
 # Plugins
 plugins:
   - search
+  - privacy:
+      enabled: !ENV [CI, false]
   - blog: 
       archive: false
   - git-revision-date-localized:
@@ -130,7 +132,7 @@ extra:
       link: https://bsky.app/profile/stiebke.bsky.social
     - icon: fontawesome/brands/mastodon
       link: https://freiburg.social/@stiebke 
-    - icon: fontawesome/brands/rss
+    - icon: fontawesome/solid/rss
       link: https://stephan.hadan.de/feed_rss_created.xml
       name: Neueste Blogbeiträge
 
