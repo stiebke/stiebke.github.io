@@ -3,6 +3,10 @@ page.title: Lebenslauf
 ---
 # Lebenslauf
 
+## Online-Lebenslauf
+
+Den Lebenslauf findet man ebenbso online unter [https://resume.hadan.de/stephan.hadan/mein-lebenslauf](https://resume.hadan.de/stephan.hadan/mein-lebenslauf).
+
 ## Persönliche Daten
 
 **Stephan Hadan**<br />
