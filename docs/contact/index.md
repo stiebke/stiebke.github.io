@@ -42,7 +42,7 @@ Selbstverständlich kann eine Kontaktaufnahme auch durch Einladung via Microsoft
 
 [Signal](https://signal.org) ist ein verschlüsselter Open-Source-Nachrichtendienst für Sofortnachrichten, Sprachanrufe und Videoanrufe. Die Sofortnachrichtenfunktion umfasst das Senden von Text, Sprachnotizen, Bildern, Videos und anderen Dateien. Die Kommunikation kann zwischen einzelnen Benutzern oder in Gruppen erfolgen.
 
-**Kontaktaufnahme:** :fontawesome-brands-signal: einen entsprechenden QR-Code oder einen Link stelle ich auf Anfrage bereit.
+**Kontaktaufnahme:** :fontawesome-brands-signal-messenger: einen entsprechenden QR-Code oder einen Link stelle ich auf Anfrage bereit.
 
 ### Slack
 
