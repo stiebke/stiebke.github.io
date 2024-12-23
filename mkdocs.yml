@@ -31,7 +31,7 @@ repo_url: https://github.com/stiebke/stiebke.github.io
 repo_name: stiebke/stiebke.github.io
 
 # Copyright
-copyright: Copyright &copy; 2024 Stephan Hadan
+copyright: Copyright &copy; 2024-2025 Stephan Hadan
 
 # Configuration
 theme:
@@ -151,6 +151,10 @@ extra:
       link: https://bsky.app/profile/stiebke.bsky.social
     - icon: fontawesome/brands/mastodon
       link: https://freiburg.social/@stiebke 
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/hadan72
+    - icon: fontawesome/brand/gitter
+      link: https://matrix.to/#/@stiebke:gitter.im
     - icon: fontawesome/solid/rss
       link: https://stephan.hadan.de/feed_rss_created.xml
       name: Neueste Blogbeiträge
