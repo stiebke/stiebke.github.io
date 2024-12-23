@@ -153,7 +153,7 @@ extra:
       link: https://freiburg.social/@stiebke 
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/hadan72
-    - icon: fontawesome/brand/gitter
+    - icon: fontawesome/brands/gitter
       link: https://matrix.to/#/@stiebke:gitter.im
     - icon: fontawesome/solid/rss
       link: https://stephan.hadan.de/feed_rss_created.xml
