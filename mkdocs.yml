@@ -157,6 +157,8 @@ extra:
       link: https://x.com/hadan72
     - icon: fontawesome/brands/gitter
       link: https://matrix.to/#/@stiebke:gitter.im
+    - icon: fontawesome/brands/signal
+      link: https://stephan.hadan.de/contact/#signal
     - icon: fontawesome/brands/slack
       link: https://hadanit.slack.com/team/U04BLKQF2M8
     - icon: fontawesome/solid/rss

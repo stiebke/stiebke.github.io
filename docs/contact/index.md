@@ -38,6 +38,12 @@ Selbstverständlich kann eine Kontaktaufnahme auch durch Einladung via Microsoft
 
 ![QR Code zum Einscannen in der Session App](images/session-account-id.jpg){ width="15%" }
 
+### Signal
+
+[Signal](https://signal.org) ist ein verschlüsselter Open-Source-Nachrichtendienst für Sofortnachrichten, Sprachanrufe und Videoanrufe. Die Sofortnachrichtenfunktion umfasst das Senden von Text, Sprachnotizen, Bildern, Videos und anderen Dateien. Die Kommunikation kann zwischen einzelnen Benutzern oder in Gruppen erfolgen.
+
+**Kontaktaufnahme:** :fontawesome-brands-signal: einen entsprechenden QR-Code oder einen Link stelle ich auf Anfrage bereit.
+
 ### Slack
 
 [Slack](https://slack.com/) ist eine Cloud-basierte Team-Kommunikationsplattform, die von Slack Technologies entwickelt wurde, das seit 2020 zu Salesforce gehört. Slack nutzt ein Freemium-Modell. Slack wird in erster Linie als Business-to-Business-Dienst angeboten, wobei die Nutzerbasis überwiegend aus teambasierten Unternehmen besteht und die Funktionen sich in erster Linie auf die Unternehmensverwaltung und -kommunikation konzentrieren.
