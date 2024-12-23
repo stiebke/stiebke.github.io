@@ -147,6 +147,8 @@ extra:
       link: https://github.com/stiebke
     - icon: fontawesome/brands/linkedin
       link: https://de.linkedin.com/in/stiebke
+    - icon: fontawesome/brands/xing
+      link: https://www.xing.com/profile/Stephan_Hadan
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/stiebke.bsky.social
     - icon: fontawesome/brands/mastodon
