@@ -1,13 +1,15 @@
-# Über mich
+Ein herzliches Willkommen!
 
-Mit über 25 Jahren Erfahrung als IT Operations Engineer bringe ich umfassende Kenntnisse in der Planung, Implementierung und Optimierung von IT-Infrastrukturen mit. Als leidenschaftlicher Open-Source-Enthusiast und Systemadministrator setze ich auf innovative Technologien, um effiziente und nachhaltige Lösungen zu entwickeln.
+Hey, willkommen auf meiner Seite! Schön, dass du hier bist. Lass mich dir ein bisschen über mich erzählen.
 
-Ein Schwerpunkt meiner Arbeit liegt auf **ISO 27001-Themengebieten**, insbesondere der Implementierung und Aufrechterhaltung von Informationssicherheits-Managementsystemen (ISMS). Ich unterstütze Unternehmen bei der Definition von Sicherheitsrichtlinien, der Identifizierung und Bewertung von Risiken sowie der Einführung effektiver Maßnahmen zur Einhaltung internationaler Standards. Mein Ziel ist es, eine robuste Sicherheitskultur zu etablieren, die Vertrauen schafft und den Geschäftsbetrieb schützt.
+Mit über 25 Jahren Erfahrung als IT Operations Engineer kenne ich die Herausforderungen und Chancen in der IT-Welt genau. Als begeisterter Open-Source-Fan und Systemadministrator setze ich auf innovative Technologien, um Lösungen zu entwickeln, die effizient, sicher und nachhaltig sind.
 
-Im Bereich **Endpoint Management** habe ich tiefgehende Erfahrung mit verschiedenen MDM-Lösungen wie MicroMDM, JamfNow! und Microsoft Intune. Dadurch kann ich Unternehmen dabei helfen, Geräte effizient und sicher zu verwalten und ihre IT-Strategie zukunftssicher zu gestalten.
+Einer meiner Schwerpunkte liegt auf **ISO 27001-Themen**, also allem, was mit Informationssicherheit zu tun hat. Ob es darum geht, Risiken zu bewerten, Sicherheitsrichtlinien zu erstellen oder ein ISMS aufzubauen – ich helfe dabei, Sicherheit auf das nächste Level zu bringen.
 
-Dank meiner langjährigen Tätigkeit als Entwickler eines ERP-Systems für die Schmuckbranche verstehe ich die Anforderungen und Herausforderungen, mit denen Entwickler konfrontiert sind. Diese Perspektive ermöglicht mir eine enge Zusammenarbeit mit Entwicklungsteams und eine ganzheitliche Herangehensweise an **DevOps**-Prozesse.
+Im Bereich **Endpoint Management** habe ich Erfahrung mit verschiedenen MDM-Lösungen wie MicroMDM, JamfNow! und Microsoft Intune. Damit sorge ich dafür, dass Geräte sicher und unkompliziert verwaltet werden können.
 
-Meine Expertise im **System Reliability Engineering** erlaubt es mir, Systeme zu entwickeln und zu betreiben, die auf Stabilität, Skalierbarkeit und Automatisierung ausgelegt sind. Als Verfechter von Open Source bevorzuge ich oft Lösungen, die proprietären Technologien überlegen sind, und arbeite experimentierfreudig daran, Grenzen neu zu definieren.
+Durch meine langjährige Arbeit als Entwickler eines ERP-Systems für die Schmuckbranche verstehe ich, worauf es in der Softwareentwicklung ankommt. Diese Perspektive hilft mir, eng mit Entwicklern zusammenzuarbeiten und **DevOps**-Prozesse zu optimieren.
 
-Mit meinem breit gefächerten Know-how unterstütze ich Unternehmen dabei, zukunftsfähige und sichere IT-Infrastrukturen aufzubauen – innovativ, effizient und maßgeschneidert.
+Als **System Reliability Engineer** ist es mein Ziel, Systeme so zu gestalten, dass sie stabil, skalierbar und automatisiert sind. Ich bin überzeugt, dass Open Source oft die bessere Wahl ist, und liebe es, neue Technologien auszuprobieren und kreative Lösungen zu finden.
+
+Ich freue mich darauf, gemeinsam an spannenden Projekten zu arbeiten und die IT-Welt ein Stück besser zu machen!
