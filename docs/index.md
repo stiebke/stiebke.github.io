@@ -1,9 +1,10 @@
 ---
 template: home.html
 title: Stephan Hadan
-social:
-  cards_layout_options:
-    title: Documentation that simply works
+pdf: false
+hide:
+  - toc
+  - navigation
+  - feedback
+  - title
 ---
-
-Welcome to Material for MkDocs.

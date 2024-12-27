@@ -36,27 +36,21 @@ copyright: Copyright &copy; 2024-2025 Stephan Hadan
 theme:
   name: material
   custom_dir: overrides
-  palette: 
-    - media: "(prefers-color-scheme)"
+  palette:
+    # - media: "(prefers-color-scheme: dark)"
+    - scheme: slate
+      accent: amber
       toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
+        icon: material/brightness-2
+        name: "Switch to light mode"
+    # - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      accent: deep purple
       toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
+        icon: material/brightness-5
+        name: "Switch to dark mode"
   font:
-    text: Roboto
+    text: Noto Sans
     code: Roboto Mono  
   logo: assets/logo.png
   favicon: images/favicon.png
@@ -137,6 +131,10 @@ plugins:
       categories:
         - categories
         - tags 
+  - social:
+      cards_layout_options:
+        background_color: "#151819"
+        color: "#5FFFD7"
   - macros
 
 # Additional configuration
@@ -163,6 +161,9 @@ extra:
     - icon: fontawesome/solid/rss
       link: https://stephan.hadan.de/feed_rss_created.xml
       name: Neueste Blogbeiträge
+
+extra_css:
+  - assets/css/custom.css
 
 # Extensions    
 markdown_extensions:
@@ -197,7 +198,11 @@ markdown_extensions:
 # Extra Javascript
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+  - assets/js/tablesort.js
+  - assets/js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - assets/js/typewriter.js
+  - https://unpkg.com/typewriter-effect@latest/dist/core.js
 
 # Page tree
 nav:
