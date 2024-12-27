@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+<!--{% block announce %}
+  Für Updates folge bitte <strong>@stiebke</strong> auf
+  <a rel="me" href="https://freiburg.social/@squidfunk">
+    <span class="twemoji mastodon">
+      {% include ".icons/fontawesome/brands/mastodon.svg" %}
+    </span>
+    <strong>freiburg.social</strong>
+  </a>
+  und <strong>stiebke.bsky.social</strong> auf
+  <a href="https://bsky.app/profile/stiebke.bsky.social">
+    <span class="twemoji bluesky">
+      {% include ".icons/fontawesome/brands/bluesky.svg" %}
+    </span>
+    <strong>Bluesky</strong>
+  </a>
+{% endblock %}-->
