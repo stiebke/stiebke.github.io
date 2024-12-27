@@ -23,8 +23,7 @@ site_name: Stephan Hadan
 site_url: https://stephan.hadan.de/
 site_author: Stephan Hadan
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  💻 OSS enthusiast | 🔧 Mac & beyond sysadmin | 🤖 AI practitioner | 🆔 Zero Trust advocate | 🚀 Open Source > proprietary | Always exploring tech’s edge!
 
 # Repository
 repo_url: https://github.com/stiebke/stiebke.github.io
@@ -202,10 +201,8 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Home:
-    - Über mich: index.md
-    - Changelog: changelog.md
-    - Lizenz: license.md
+  - Home: index.md
+  - Über mich: about/index.md
   - Lebenslauf: cv/index.md
   - Projekte: projects/index.md
   - Tech Stack: techstack/index.md
